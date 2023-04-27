@@ -1,0 +1,23 @@
+#hero{
+    background-color:#8098E5;
+    color:white;
+}
+#portfolio{
+    background-color:#E3DFCA;
+}
+.bi {
+    vertical-align: -.125em;
+    fill: white;
+}
+
+.feature-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 4rem;
+    height: 4rem;
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    color: #fff;
+    border-radius: .75rem;
+}
