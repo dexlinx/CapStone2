@@ -9,7 +9,9 @@
     vertical-align: -.125em;
     fill: white;
 }
-
+#contact{
+    background-color:#909677;
+}
 .feature-icon {
     display: inline-flex;
     align-items: center;
@@ -20,4 +22,9 @@
     font-size: 2rem;
     color: #fff;
     border-radius: .75rem;
+}
+
+.findreplace{
+    background-color:grey;
+
 }
